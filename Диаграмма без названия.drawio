@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T12:55:55.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.0.2937 Yowser/2.5 Safari/537.36" etag="fBKlqPo156Q30-OfYrw2" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T12:57:26.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.0.2937 Yowser/2.5 Safari/537.36" etag="-bAjssNhkGFpxjaUvdTl" version="20.8.13" type="github">
   <diagram id="fHXRFne2_BFkhLYoYEFm" name="Страница 1">
     <mxGraphModel dx="5347" dy="2545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -873,7 +873,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bd7LE4ANdgzSuI5iV2SU-164" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RECSYS.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=right;" vertex="1" parent="1">
-          <mxGeometry x="-1890" y="-550" width="290" height="90" as="geometry" />
+          <mxGeometry x="-1890" y="-550" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Bd7LE4ANdgzSuI5iV2SU-165" value="offer model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1870" y="-530" width="120" height="60" as="geometry" />
